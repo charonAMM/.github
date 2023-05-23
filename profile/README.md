@@ -15,11 +15,11 @@ Live Contracts
 
 Charon
 
-- polygon = [0xDa2388E64452a8fAa2e205a6BA6067eE48f44f60](https://polygonscan.com/address/0xDa2388E64452a8fAa2e205a6BA6067eE48f44f60)
-- gnosis = [0xAE174a7563bFE71b804273A4C7e4e47843E199e3](https://blockscout.com/xdai/mainnet/address/0xAE174a7563bFE71b804273A4C7e4e47843E199e3)
-- optimism = [0x83932ED462351c7e2eB1641654a6b56EBa7CB991](https://optimistic.etherscan.io/address/0x83932ED462351c7e2eB1641654a6b56EBa7CB991)
+- polygon - [0xDa2388E64452a8fAa2e205a6BA6067eE48f44f60](https://polygonscan.com/address/0xDa2388E64452a8fAa2e205a6BA6067eE48f44f60)
+- gnosis - [0xAE174a7563bFE71b804273A4C7e4e47843E199e3](https://blockscout.com/xdai/mainnet/address/0xAE174a7563bFE71b804273A4C7e4e47843E199e3)
+- optimism - [0x83932ED462351c7e2eB1641654a6b56EBa7CB991](https://optimistic.etherscan.io/address/0x83932ED462351c7e2eB1641654a6b56EBa7CB991)
 
 
 Incentive Token (CIT)
 
-Gnosis Chain = [0xA236e0a9fCCBd3BFcbb9Ed8aB4EEFEEBcbE58458](https://blockscout.com/xdai/mainnet/address/0xA236e0a9fCCBd3BFcbb9Ed8aB4EEFEEBcbE58458)
+Gnosis Chain - [0xA236e0a9fCCBd3BFcbb9Ed8aB4EEFEEBcbE58458](https://blockscout.com/xdai/mainnet/address/0xA236e0a9fCCBd3BFcbb9Ed8aB4EEFEEBcbE58458)
