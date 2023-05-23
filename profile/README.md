@@ -12,7 +12,7 @@ discord - [https://discord.gg/jAVWTe8SSc](https://discord.gg/jAVWTe8SSc)
 
 
 
-### Live Contracts
+### Contracts
 
 
 Charon
